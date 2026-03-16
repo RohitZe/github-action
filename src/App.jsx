@@ -42,7 +42,7 @@ function App() {
             <li>
               <a href="https://vite.dev/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
-                Hellish Dependicies
+                Hellish Dependicies not so much
               </a>
             </li>
             <li>
