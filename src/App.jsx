@@ -48,7 +48,7 @@ function App() {
             <li>
               <a href="https://react.dev/" target="_blank">
                 <img className="button-icon" src={reactLogo} alt="" />
-                Learn not so more
+                Learn not so more okay jii
               </a>
             </li>
           </ul>
